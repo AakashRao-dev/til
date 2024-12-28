@@ -11,6 +11,9 @@ This CSS rule is used to visually hide content from users while still making it 
   width: 1px;
   overflow: hidden;
   white-space: nowrap;
+  padding: 0;
+  margin: -1px;
+  position: absolute;
 }
 ```
 
